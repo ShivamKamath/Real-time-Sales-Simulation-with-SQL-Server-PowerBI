@@ -1,2 +1,2 @@
-# Real-time-Sales-Simulation-with-SQL-Server-PowerBI
-Utilized SQL Server and Direct Query to access and analyze live sales data. • Created interactive visualizations and reports to monitor and forecast sales performance
+# Live_sales_simulation
+A live simulated dashboard of sales data which is prepared on Power BI by Microsoft
